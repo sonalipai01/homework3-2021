@@ -4,23 +4,23 @@ You can not change ANYTHING inside the
 brackets or add additional rules
 */
 
-.item2, .item5 {
+div.item2, div.item5 {
 	grid-column: 3/4;
 }
 
-.item3, .item_d {
+div.item3, div.item_d {
 	grid-column: 2/3;
 }
 
-.item1, .item4 {
+div.item1, div.item4 {
 	grid-column: 1/2;
 }
 
-.item_e, .item_b, .item_a {
+div.item_e, div.item_b, div.item_a {
 	grid-column: 3/4;
 }
 
-.item_a{
+div.item_a{
 	grid-column: 3/4;
 	grid-row: 3/4;
 }
